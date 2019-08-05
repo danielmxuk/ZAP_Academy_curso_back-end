@@ -1,0 +1,25 @@
+Tareas de la Sesion 01 (5 de Agosto 2019):
+
+1) Instalar el software IndigoAMPP
+	- Bajarlo directamente desde la pagina del software:
+		https://www.indigostar.com/indigoampp/
+
+	Seguir las indicaciones de instalacion y configuracion del documento:
+		ZAP Academy - como instalar y configurar el software indigoampp.docx
+
+2) Instalar applicacion en el celular llamada Kahoot!
+
+3) Recomendado: Instalar el software GIT para windows: (el objetivo es tener instalado GIT Bash)
+
+	- Link: https://git-scm.com/download/win
+
+	- De esta forma pueden descargar el repositorio usando el comando:
+
+		$ git clone https://github.com/danielmxuk/ZAP_Academy_curso_back-end.git
+
+		Sintaxis: git clone https://[TU_USUARIO]@bitbucket.org/[PROPIETARIO]/[REPOSITORIO].git
+
+============================================================================================================
+
+
+
