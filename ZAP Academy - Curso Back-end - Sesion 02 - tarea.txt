@@ -1,0 +1,36 @@
+Tareas de la Sesion 01 (6 de Agosto 2019):
+
+1) Opcional: Alternativa de software software IndigoAMPP, se podria usar 
+	- Bajarlo directamente desde la pagina del software:
+		https://www.apachefriends.org/index.html
+
+	Seguir las indicaciones de instalacion y configuracion del documento:
+		ZAP Academy - como instalar y configurar el software xAMPP.docx
+
+
+	Donde encontrar el archivo hosts en windows:  C:\Windows\System32\drivers\etc
+
+
+
+2) Hacer un script basico en PERL que corra desde el servidor Web, links de referencia:
+
+	http://flanagan.ugr.es/perl/index2.htm
+
+
+3) Referencia de content types:  
+	https://developer.mozilla.org/es/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Lista_completa_de_tipos_MIME
+
+
+3) Links para Mac:
+	https://crunchify.com/how-to-install-apache-web-server-on-mac-os-x-yosemite/
+	
+	https://brew.sh/index_es
+
+	https://www.hostinet.com/formacion/hosting-alojamiento/editar-archivo-hosts-mac-os-x-macos/
+
+	https://geekytheory.com/gestores-de-paquetes-en-mac-os-x
+
+============================================================================================================
+
+
+
