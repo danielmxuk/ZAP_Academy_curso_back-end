@@ -1,0 +1,17 @@
+
+12/agosto/2019
+
+Links de referencia de PERL:
+
+
+	-https://es.perlmaven.com/perl-tutorial
+
+	- https://es.perlmaven.com/abrir-y-leer-desde-archivos-de-texto
+
+	- http://chuwiki.chuidiang.org/index.php?title=Escritura_de_fichero_en_Perl
+ 
+
+============================================================================================================
+
+
+
