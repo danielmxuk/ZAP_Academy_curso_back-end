@@ -1,0 +1,22 @@
+
+13/agosto/2019
+
+Links de referencia de Front-end:
+
+	- https://dojotoolkit.org/
+	- http://demos.dojotoolkit.org/demos/themePreviewer/demo.html?theme=soria
+	- https://dojotoolkit.org/documentation/tutorials/1.10/editor/demo/editor-basic.html
+	- http://demos.dojotoolkit.org/demos/mobileGallery/demo-ios7.html
+	- http://demos.dojotoolkit.org/demos/
+
+	- https://jqueryui.com/demos/
+	- https://demos.jquerymobile.com/1.4.5/
+	- https://zinoui.com/demos
+	- 
+
+ 
+
+============================================================================================================
+
+
+
