@@ -1,0 +1,64 @@
+
+14/agosto/2019
+
+El software de SQL developer para mac se puede bajar de aqui:
+
+https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/sqldev-install-mac-1969675.html
+
+
+Pasos para conectarse a la DB de MySQL desde SQL Developer:
+
+	1) Registrar en Oracle, en:
+
+		https://login.oracle.com/oaam_server/login.do
+
+	2) Bajar el driver desde:
+		https://dev.mysql.com/downloads/connector/j/
+		
+		O bien desde el repositorio de curso: mysql-connector-java-8.0.17.jar
+
+	3) Instalar el driver como se indica en:
+
+		https://oracle-base.com/articles/mysql/mysql-connections-in-sql-developer
+
+
+	4) Correr el servicio de MySQL y conectarse usando SQL Developer
+
+	5) Crear tablas de prueba en el schema de test  (para tipos de datos buscar como MySQL data types)
+ 		-> Create table test.prueba (nombre varchar(255));
+
+			-> Insert into test.prueba values (1, 'Pedrito');
+
+				-> Update test.prueba set nombre = 'Pepito' where nombre = 'Pedrito';
+
+	NOTA: para poner comentarios utilizar -- al principio de la linea
+
+============================================================================================================
+
+
+Link con documentacion sobre PERL y DBs:
+
+	https://www.tutorialspoint.com/perl/perl_database_access
+
+
+Ejemplos de ejecucion:
+
+C:\xampp\cgi-bin> C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_CRUD_operations.pl
+No recibi un comando valido!
+
+C:\xampp\cgi-bin>C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_CRUD_operations.pl operacion=buscarNombre nombreUsuario=Daniel
+NO
+
+C:\xampp\cgi-bin>C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_CRUD_operations.pl operacion=buscarNombre nombreUsuario=Danny
+SI
+
+C:\xampp\cgi-bin>C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_CRUD_operations.pl operacion=guardarNombre nombreUsuario=Lupita
+Nuevo nombre Lupita guardado en DB.
+
+
+C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_controller.pl mensaje=hola
+
+C:\indigoampp\perl-5.12.1\bin\perl.exe recibir_datos_05_controller.pl mensaje="mi nombre es Lupita"
+
+
+============================================================================================================
