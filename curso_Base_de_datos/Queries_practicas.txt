@@ -1,0 +1,61 @@
+Clase del 27/agosto/2019:
+
+Select job_title, min_salary from HR.jobs where rownum < 4 order by min_salary DESC;
+
+Select 
+    
+	UPPER(first_name), last_name, salary 
+
+from 
+    
+	HR.employees 
+
+WHERE
+  
+	salary = ( Select MAX(salary) from HR.employees ) ;
+
+
+#############################################################################
+Clase del 29/agosto/2019:
+
+usar distinct, like, IN, operadores AND/OR, parentesis, AVG, DECODE, CONCAT / ||
+
+Situacion #1:
+Obtener el nombre de los empleados del departamento de IT 
+cuyo salario esta por arriba del promedio de salarios de la empresa.
+
+QUERY:
+?
+
+
+Situacion #2:
+Obtener en una sola columna el nombre completo de los empleados de 
+los departamentos de Marketing, Finance, y Shipping, cuyo aniversario en la empresa sea en Agosto.
+
+
+QUERY:
+?
+ 
+
+Situacion #3:
+Se dara un bono de navidad a los empleados de los departamentos de A, B, C basado en la siguiente tabla:
+	- Departamento A: bono de 15% del salario
+	- Departamento B: bono de 8%  del salario
+	- Departamento C: bono de 250 pesos
+
+Obtener la lista de empleados y como quedaria su salario con los bonos aplicados.
+
+QUERY:
+?
+
+
+#############################################################################
+Clase del //2019:
+
+
+
+
+#############################################################################
+Clase del //2019:
+
+
